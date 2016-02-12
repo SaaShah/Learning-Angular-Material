@@ -1,0 +1,13 @@
+{
+  "name": "learning-angular-material",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "lite-server": "^2.0.1"
+  }
+}
